@@ -3,7 +3,7 @@
   "description": "QueryList Plugin: Use Puppeteer to crawl Javascript dynamically rendered pages.(Headless Chrome ) 使用Puppeteer采集JavaScript动态渲染的页面",
   "require": {
     "PHP":">=7.1",
-    "nesk/puphpeteer": "^1.4"
+    "nesk/puphpeteer": "^2.0.0"
   },
   "require-dev": {
     "jaeger/querylist": "dev-master"
